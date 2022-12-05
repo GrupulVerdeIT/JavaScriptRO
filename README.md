@@ -137,4 +137,3 @@ Alternativ, puteți folosi o extensie (de browser sau pentru code editor) pentru
 P.S. Lista completă a limbilor traduse poate fi găsită la <https://javascript.info/translate>.
 
 ♥  
-Ilya Kantor @iliakan
