@@ -6,7 +6,6 @@ Acest repository găzduiește conținutul în limba română pentru The Modern J
 
 ## Primii pași
 
-- Consultați acest issue [Romanian Translate Progress](https://github.com/javascript-tutorial/ro.javascript.info/issues/1).
 - Alegeți un articol nebifat pe care doriți să îl traduceți.
 - Adăugați un comentariu cu titlul articolului la issue, e.g. `An Introduction to JavaScript`.
   - Bot-ul nostru îl va marca automat în issue pentru ca toată lumea să știe că îl traduceți.
