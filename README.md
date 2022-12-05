@@ -1,4 +1,4 @@
-# The Modern JavaScript Tutorial în limba Română
+#JavaScript Tutorial în limba Română
 
 Acest repository găzduiește conținutul în limba română pentru The Modern JavaScript Tutorial, publicat în [https://javascript.info](https://javascript.info).
 
